@@ -1,0 +1,23 @@
+{
+    "name": "Poliwag",
+    "description": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/20.jpg",
+    "tokenId": 20,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Grass"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Flying"
+        }
+    ]
+}

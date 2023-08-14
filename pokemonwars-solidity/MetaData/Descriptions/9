@@ -1,0 +1,23 @@
+{
+    "name": "Pikachu",
+    "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/9.jpg",
+    "tokenId": 9,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Ground"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Water"
+        }
+    ]
+}

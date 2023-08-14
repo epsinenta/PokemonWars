@@ -1,0 +1,23 @@
+{
+    "name": "Nidorina",
+    "description": "The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/10.jpg",
+    "tokenId": 10,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Ground"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Flying"
+        }
+    ]
+}

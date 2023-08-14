@@ -1,0 +1,23 @@
+{
+    "name": "Clefable",
+    "description": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/12.jpg",
+    "tokenId": 12,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Poison"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Ground"
+        }
+    ]
+}

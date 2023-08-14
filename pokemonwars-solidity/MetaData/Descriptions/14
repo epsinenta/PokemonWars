@@ -1,0 +1,23 @@
+{
+    "name": "Golbat",
+    "description": "It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/14.jpg",
+    "tokenId": 14,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Flying"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Electric"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Fairy"
+        }
+    ]
+}

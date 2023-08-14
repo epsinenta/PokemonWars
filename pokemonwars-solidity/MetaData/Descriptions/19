@@ -1,0 +1,23 @@
+{
+    "name": "Primeape",
+    "description": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/19.jpg",
+    "tokenId": 19,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Flying"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Rock"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Venonat",
+    "description": "Poison oozes from all over its body. It catches small bug Pokémon at night that are attracted by light.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/16.jpg",
+    "tokenId": 16,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Fire"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Water"
+        }
+    ]
+}

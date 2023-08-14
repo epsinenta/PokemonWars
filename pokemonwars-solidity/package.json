@@ -1,0 +1,20 @@
+{
+  "name": "pokemonwars-solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.informatics.ru/quswadress/pokemonwars-solidity"
+  },
+  "keywords": [],
+  "author": "quswadress",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.12.6"
+  }
+}

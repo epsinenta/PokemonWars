@@ -1,0 +1,23 @@
+{
+    "name": "Psyduck",
+    "description": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/18.jpg",
+    "tokenId": 18,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Electric"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Fire"
+        }
+    ]
+}

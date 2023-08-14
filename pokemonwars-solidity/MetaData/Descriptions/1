@@ -1,0 +1,23 @@
+{
+    "name": "Venusaur",
+    "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/1.jpg",
+    "tokenId": 1,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Fire"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Water"
+        }
+    ]
+}

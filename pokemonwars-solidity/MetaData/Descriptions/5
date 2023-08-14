@@ -1,0 +1,23 @@
+{
+    "name": "Beedrill",
+    "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/5.jpg",
+    "tokenId": 5,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Fire"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Flying"
+        }
+    ]
+}

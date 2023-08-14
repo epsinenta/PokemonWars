@@ -1,0 +1,23 @@
+{
+    "name": "Jigglypuff",
+    "description": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/13.jpg",
+    "tokenId": 13,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Poison"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Ground"
+        }
+    ]
+}

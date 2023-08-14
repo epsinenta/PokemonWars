@@ -1,0 +1,23 @@
+{
+    "name": "Charizard",
+    "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/2.jpg",
+    "tokenId": 2,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Electric"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Grass"
+        }
+    ]
+}

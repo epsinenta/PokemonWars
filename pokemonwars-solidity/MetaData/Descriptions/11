@@ -1,0 +1,23 @@
+{
+    "name": "Nidorino",
+    "description": "With a horn that’s harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/11.jpg",
+    "tokenId": 11,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Psychic"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Flying"
+        }
+    ]
+}

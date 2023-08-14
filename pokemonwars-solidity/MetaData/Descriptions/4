@@ -1,0 +1,23 @@
+{
+    "name": "Butterfree",
+    "description": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/4.jpg",
+    "tokenId": 4,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Flying"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Rock"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Poison"
+        }
+    ]
+}

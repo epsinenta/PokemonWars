@@ -1,0 +1,23 @@
+{
+    "name": "Arbok",
+    "description": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/8.jpg",
+    "tokenId": 8,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Ground"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Grass"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Spearow",
+    "description": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/7.jpg",
+    "tokenId": 7,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Ice"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Flying"
+        }
+    ]
+}

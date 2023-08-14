@@ -1,0 +1,23 @@
+{
+    "name": "Vileplume",
+    "description": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/15.jpg",
+    "tokenId": 15,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Fire"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Ice"
+        }
+    ]
+}

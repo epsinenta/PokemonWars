@@ -1,0 +1,23 @@
+{
+    "name": "Dugtrio",
+    "description": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVpWrofxGfVEfoSaa1cg1SD8khLgddd4ycTkqMaydawhd/17.jpg",
+    "tokenId": 17,
+    "attributes": [
+
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+
+        {
+              "trait_type": "Weaknesses",
+              "value": "Water"
+        },
+
+        {
+              "trait_type": "Advantages",
+              "value": "Poison"
+        }
+    ]
+}
